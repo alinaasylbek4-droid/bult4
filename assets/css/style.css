@@ -37,3 +37,10 @@ body {
 .main section {
     margin-bottom: 2rem;
 }
+
+.footer {
+    padding: 1rem 2rem;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+}
